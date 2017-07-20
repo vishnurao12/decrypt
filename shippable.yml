@@ -1,0 +1,5 @@
+env:
+  - secure: bDqWgWxHk6TMzZmJAUHRIoMQLtFmSQmxKAPInfSpL5VZJcd+pLyncvvVfXJNxGo6hz1lV62lNcK1e66oy9RrCTDlIJJNMUhvECFOPWBZFnjG4Vp0Gmvi57g7l0DIdHoqwT+pUC4MXIJ2yj9BgyBL6ypF0VLDQKsnwYHMfLmnAo5PsxI+nW4BIoXYX/upDOYjf5g9b7v3mKC8QdRwcqBW3AlmyIXHS4VAwrHyUtBBo3hrgXCqaZEp7QbDGkWei6Xr/eVKahgMwDU00deiOg6bBNRvIAa7MlDE1uIYMcQebBruxmIB/qRW6oYHE34mD/QfwJcgB5guZIdyEYw4Psg1EA==
+build:
+  ci:
+    - echo $foo
